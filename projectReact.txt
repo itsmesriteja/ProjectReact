@@ -1,0 +1,4 @@
+1. Dependencies: 
+--> package.json consists of all the dependencies that are used in the project. 
+    It actually consists of name, aithor and also the dependencies and dev dependencies object. 
+--> Dev dependencies are the dependencies that are used while development process. 
